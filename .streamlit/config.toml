@@ -1,0 +1,8 @@
+[theme]
+# Só fixamos a cor de destaque (laranja irlandês); fundo/texto ficam livres
+# para o Streamlit alternar entre modo claro e escuro normalmente.
+primaryColor = "#FF883E"
+font = "sans serif"
+
+[server]
+headless = true
